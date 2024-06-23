@@ -1,0 +1,6 @@
+[submodule "BDIS_landing_front"]
+	path = BDIS_landing_front
+	url = https://github.com/BDIS-project/BDIS_landing_front.git
+[submodule "BDIS_landing_back"]
+	path = BDIS_landing_back
+	url = https://github.com/BDIS-project/BDIS_landing_back.git
